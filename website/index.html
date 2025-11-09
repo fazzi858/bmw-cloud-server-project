@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BMW | The Ultimate Driving Machine</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="sidebar" id="sidebar">
+    <h2>BMW</h2>
+    <ul>
+      <li><a href="#" class="active">🏠 Home</a></li>
+      <li><a href="#models">🚗 Models</a></li>
+      <li><a href="#configurator">⚙️ Configurator</a></li>
+      <li><a href="#technology">💡 Technology</a></li>
+      <li><a href="#history">📜 Heritage</a></li>
+      <li><a href="#contact">📞 Contact</a></li>
+    </ul>
+  </div>
+
+  <div class="main" id="main">
+    <header>
+      <button class="menu-btn" id="menuBtn">☰</button>
+      <h1>BMW — The Ultimate Driving Machine</h1>
+      <p>Where performance meets perfection.</p>
+    </header>
+
+    <section class="intro">
+      <h2>Precision. Power. Passion.</h2>
+      <p>Every BMW is crafted with unmatched attention to detail — engineered to deliver an experience that’s truly unforgettable.</p>
+    </section>
+
+    <section id="models" class="models">
+      <h2>Explore BMW Lineup</h2>
+      <ul>
+        <li><strong>BMW 3 Series:</strong> The benchmark of sport sedans.</li>
+        <li><strong>BMW 5 Series:</strong> Business-class elegance with sport DNA.</li>
+        <li><strong>BMW X5:</strong> Powerful SUV with intelligent all-wheel drive.</li>
+        <li><strong>BMW i4:</strong> Fully electric — redefining performance sustainability.</li>
+      </ul>
+    </section>
+
+    <section id="configurator" class="configurator">
+      <h2>Car Configurator</h2>
+      <p>Customize your BMW’s color and wheel design in real-time.</p>
+
+      <div class="controls">
+        <label>Body Color:</label>
+        <select id="colorSelect">
+          <option value="#007bff">BMW Blue</option>
+          <option value="#000000">Jet Black</option>
+          <option value="#ffffff">Alpine White</option>
+          <option value="#555555">Shadow Grey</option>
+        </select>
+
+        <label>Wheel Style:</label>
+        <select id="wheelSelect">
+          <option value="sport">Sport</option>
+          <option value="luxury">Luxury</option>
+          <option value="performance">Performance</option>
+        </select>
+      </div>
+
+      <div class="car-preview" id="carPreview">
+        <div class="car-body"></div>
+        <div class="wheels"></div>
+      </div>
+    </section>
+
+    <section id="technology" class="technology">
+      <h2>BMW Technology</h2>
+      <p>From intelligent driving systems to adaptive dynamics, BMW innovations set the future of automotive excellence.</p>
+      <ul>
+        <li>🔹 BMW iDrive 8 — intuitive digital control.</li>
+        <li>🔹 EfficientDynamics — sustainability meets power.</li>
+        <li>🔹 M TwinPower Turbo Engines — extreme performance efficiency.</li>
+      </ul>
+    </section>
+
+    <section id="history" class="history">
+      <h2>BMW Heritage</h2>
+      <p>Founded in 1916, BMW began as an aircraft engine manufacturer. Today, it remains a global symbol of precision and luxury.</p>
+    </section>
+
+    <section id="contact" class="contact">
+      <h2>Contact BMW</h2>
+      <form>
+        <input type="text" placeholder="Your Name" required>
+        <input type="email" placeholder="Email Address" required>
+        <textarea placeholder="Your Message" rows="4" required></textarea>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+
+    <footer>
+      <p>© 2025 BMW AG — All Rights Reserved</p>
+    </footer>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
