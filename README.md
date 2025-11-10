@@ -31,4 +31,5 @@ https://github.com/fazzi858/bmw-cloud-server-project/blob/11d6b9f9261fa8275c402e
 5. adding html code and css code, restart website using sudo restart apachehttps://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-08%20205252.png
 6. website is running 
 https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-08%20205305.pnghttps://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-09%20185050.png
-7. checking website status through sudo system status apache
+7. checking website status through sudo system status apachehttps://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-09%20185050.png
+8. 
