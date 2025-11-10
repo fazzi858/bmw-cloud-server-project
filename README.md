@@ -28,8 +28,8 @@ https://github.com/fazzi858/bmw-cloud-server-project/blob/11d6b9f9261fa8275c402e
 2. created azure vm https://github.com/fazzi858/bmw-cloud-server-project/blob/11d6b9f9261fa8275c402ec1f5188341e95a4013/images/Screenshot%202025-11-07%20215849.png
 3. connect to virtual machine using ssh key in powershell https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-08%20153404.png
 4.   enable website and start using sudo commands and check website status using sudo status apache https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-08%20153703.png
-5. adding html code and css code, restart website using sudo restart apachehttps://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-08%20205252.png
+5. adding html code and css code, restart website using sudo restart apache https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-08%20205252.png
 6. website is running 
-https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-08%20205305.pnghttps://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-09%20185050.png
-7. checking website status through sudo system status apachehttps://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-09%20185050.png
+https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-08%20205305.png
+7. checking website status through sudo system status apache https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-09%20185050.png
 8. 
