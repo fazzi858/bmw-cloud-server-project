@@ -21,6 +21,7 @@ cloud server project for hosting bmw-themed website
 5. tested website at public ip
 6. linked github repository for version control
 7. configured ssl certificate using lets encrypt
+8. purchasing domain name from https://www.godaddy.com/en
 
 ## screenshots
 1. creating a azure vm 
@@ -32,4 +33,4 @@ https://github.com/fazzi858/bmw-cloud-server-project/blob/11d6b9f9261fa8275c402e
 6. website is running 
 https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-08%20205305.png
 7. checking website status through sudo system status apache https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-09%20185050.png
-8. 
+
