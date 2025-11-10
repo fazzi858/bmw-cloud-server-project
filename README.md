@@ -23,4 +23,6 @@ cloud server project for hosting bmw-themed website
 7. configured ssl certificate using lets encrypt
 
 ## screenshots
-1.
+1. creating a azure vm 
+https://github.com/fazzi858/bmw-cloud-server-project/blob/11d6b9f9261fa8275c402ec1f5188341e95a4013/images/Screenshot%202025-11-07%20212930.png
+2. 
