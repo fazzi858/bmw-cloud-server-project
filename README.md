@@ -7,7 +7,9 @@ cloud server project for hosting bmw-themed website
 **university:** murdoch university 
 ##project links 
 **live website:** https://135.235.168.198 
+
 ** github repository:** https://github.com/fazzi858/bmw-cloud-server-project
+
 ## overview
 cloud server project for hosting bmw-themed website
 
@@ -17,3 +19,8 @@ cloud server project for hosting bmw-themed website
 3. uploaded website files
 4. configured apache
 5. tested website at public ip
+6. linked github repository for version control
+7. configured ssl certificate using lets encrypt
+
+## screenshots
+1.
