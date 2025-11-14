@@ -10,7 +10,7 @@ cloud server project for hosting bmw-themed website
 ** IP address: ** 135.235.168.198
 ** domain name:** beammotor.com
 ** github repository:** https://github.com/fazzi858/bmw-cloud-server-project
-** video link: 
+** video link: https://www.youtube.com/watch?v=MZubc2cCvT8
 
 ## overview
 cloud server project for hosting bmw-themed website
