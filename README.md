@@ -6,9 +6,11 @@ cloud server project for hosting bmw-themed website
 **unit:** introduction to server environments and architectures-171
 **university:** murdoch university 
 ##project links 
-**live website:** https://135.235.168.198 
-
+**live website:** https://beammotor.com
+** IP address: ** 135.235.168.198
+** domain name:** beammotor.com
 ** github repository:** https://github.com/fazzi858/bmw-cloud-server-project
+** video link: 
 
 ## overview
 cloud server project for hosting bmw-themed website
