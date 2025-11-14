@@ -35,4 +35,17 @@ https://github.com/fazzi858/bmw-cloud-server-project/blob/11d6b9f9261fa8275c402e
 6. website is running 
 https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-08%20205305.png
 7. checking website status through sudo system status apache https://github.com/fazzi858/bmw-cloud-server-project/blob/f981262156961590b06ac086fc512301c92b7b8a/images/Screenshot%202025-11-09%20185050.png
+## commands
+1.APACHE SERVER COMMANDS: 
+sudo apt install apache2-y- 
+sudo systemctl status apache2
+- sudo systemctl restart apache2
+- - sudo systemctl reload apache2
+  - - sudo systemctl start apache2
+    - - sudo systemctl stop apache2
+      - - sudo systemctl enable apache2
+          -sudo apache2ctl configtest
+2.  ENCRYPT SSL:-
+sudo apt install certbot python3-certbot-apache
+- sudo certbot-apache
 
